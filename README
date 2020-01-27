@@ -1,0 +1,3 @@
+# Serve website locally - to preview website
+bundle exec jekyll serve
+
